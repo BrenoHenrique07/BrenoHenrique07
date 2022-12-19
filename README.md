@@ -2,8 +2,6 @@
 
 ### Olá! Eu Sou o Breno Henrique
 
-
-- 🔭 Participando do programa PET-TEC do Instituto Federal do Triângulo Mineiro 
 - 🌱 Estudando Kotlin, Spring Framework e scrum
 
 <div>
