@@ -1,7 +1,5 @@
 <div style="background-color: black">
-
-### Olá! Eu Sou o Breno Henrique
-
+  
 <div>
   <a href="https://github.com/BrenoHenrique07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoHenrique07&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
