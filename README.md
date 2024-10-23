@@ -1,6 +1,6 @@
 # Olá, meu nome é Breno Henrique
 
-Sou recém formado no curso de Análise e desenvolvimento de Sistemas e atualmente atuo como desenvolvedor Back-End.
+Recém formado em Análise e Desenvolvimento de Sistemas atuando como desenvolvedor Back-End.
 
 ## 📌 O que estou fazendo
 
