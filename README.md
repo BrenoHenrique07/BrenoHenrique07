@@ -1,6 +1,6 @@
 # Olá, meu nome é Breno Henrique
 
-Atualmente atuo como desenvolvedor back-end.
+Sou recém formado no curso de Análise e desenvolvimento de Sistemas e atualmente atuo como desenvolvedor Back-End.
 
 ## 📌 O que estou fazendo
 
